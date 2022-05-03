@@ -1,6 +1,6 @@
 ## <h2>Olá eu sou Danilo Santos 👋</h2>
 
-Estudante de Desenvolvimento Web | Trybe
+Desenvolvedor Full Stack
 
 <div align="center">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=olinadss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
