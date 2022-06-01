@@ -1,5 +1,7 @@
 ## <h2>Olá eu sou Danilo Santos 👋</h2>
 
+🇧🇷 Brasileiro, natural de São Paulo/SP
+
 Desenvolvedor Full Stack
 
 <div align="center">
