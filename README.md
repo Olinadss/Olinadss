@@ -4,8 +4,6 @@
 
 Desenvolvedor Full Stack
 
-e-mail: danilo.santossouza@outlook.com
-
 ## Principais Tecnologias
 
 - Javascript
