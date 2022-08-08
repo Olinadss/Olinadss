@@ -2,6 +2,8 @@
 
 🇧🇷 Brasileiro, natural de São Paulo/SP
 
+Me chamo Danilo tenho 28 anos, sou de SP capital. Estou em transição de carreira para a área de tecnologia, quero seguir carreira na área de programação por ser uma área dinâmica e com uma comunidade muito colaborativa, e ter o poder de entregar uma solução que realmente transforma a experiência e a vida das pessoas.
+
 Desenvolvedor Full Stack
 
 ## Principais Tecnologias
