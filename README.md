@@ -2,9 +2,9 @@
 
 🇧🇷 Brasileiro, natural de São Paulo/SP
 
-Olá! Me chamo Danilo, sou um desenvolvedor Full Stack apaixonado por tecnologia, atualmente trabalhando na Brisa. Tenho conhecimento em React, React Native, Node.js, JavaScript, TypeScript, MySQL, MongoDB e testes unitários com Jest.
+Sou um desenvolvedor Full Stack apaixonado por tecnologia, atualmente trabalhando na Brisa. Tenho conhecimento em React, React Native, Node.js, JavaScript, TypeScript, MySQL, MongoDB e testes unitários com Jest.
 
-Minha paixão pelo desenvolvimento de software é impulsionada pela busca constante de desafios estimulantes, onde posso aplicar minhas habilidades e contribuir para projetos inovadores. Meu perfil do GitHub: https://github.com/Olinadss, apresenta uma variedade de projetos onde demonstro minha criatividade e dedicação.
+Minha paixão pelo desenvolvimento de software é impulsionada pela busca constante de desafios estimulantes, onde posso aplicar minhas habilidades e contribuir para projetos inovadores. Aqui no meu perfil do GitHub, tenho  uma variedade de projetos onde demonstro minha criatividade e dedicação.
 
 Estou sempre aberto a novas oportunidades de aprendizado e colaboração, buscando projetos empolgantes que me permitam crescer profissionalmente e deixar uma marca na indústria. Se você procura um desenvolvedor Full Stack comprometido, apaixonado e pronto para enfrentar desafios, estou animado para fazer parte da sua equipe e transformar ideias em soluções de sucesso.
 
