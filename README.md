@@ -32,5 +32,5 @@ Estou sempre aberto a novas oportunidades de aprendizado e colaboração, buscan
   
   ##
   <div align="center">
-  <a href="https://www.linkedin.com/in/danilodossantossouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danilosantossouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
