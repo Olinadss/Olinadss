@@ -2,9 +2,11 @@
 
 🇧🇷 Brasileiro, natural de São Paulo/SP
 
-Me chamo Danilo tenho 28 anos, sou de SP capital. Estou em transição de carreira para a área de tecnologia, quero seguir carreira na área de programação por ser uma área dinâmica e com uma comunidade muito colaborativa, e ter o poder de entregar uma solução que realmente transforma a experiência e a vida das pessoas.
+Olá! Me chamo Danilo, sou um desenvolvedor Full Stack apaixonado por tecnologia, atualmente trabalhando na Brisa. Tenho conhecimento em React, React Native, Node.js, JavaScript, TypeScript, MySQL, MongoDB e testes unitários com Jest.
 
-Desenvolvedor Full Stack
+Minha paixão pelo desenvolvimento de software é impulsionada pela busca constante de desafios estimulantes, onde posso aplicar minhas habilidades e contribuir para projetos inovadores. Meu perfil do GitHub: https://github.com/Olinadss, apresenta uma variedade de projetos onde demonstro minha criatividade e dedicação.
+
+Estou sempre aberto a novas oportunidades de aprendizado e colaboração, buscando projetos empolgantes que me permitam crescer profissionalmente e deixar uma marca na indústria. Se você procura um desenvolvedor Full Stack comprometido, apaixonado e pronto para enfrentar desafios, estou animado para fazer parte da sua equipe e transformar ideias em soluções de sucesso.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olinadss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
